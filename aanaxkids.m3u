@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF: -1 tvg-chno="22" group-title="News", PK: PTV News-HD
+http://mixbix.xyz:8080/566556622359/333333000215/239203
 #EXTINF: -1 group-title="Kids" ,AE: Cartoon Network
 http://aanax.com:8080/GenIptvLast/gRta4RvjFMPBRRTTb5/285989
 #EXTINF: -1 group-title="Kids" ,AE: OSN Kids
